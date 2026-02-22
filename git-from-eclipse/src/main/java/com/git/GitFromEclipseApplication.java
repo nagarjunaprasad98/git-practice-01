@@ -11,6 +11,7 @@ public class GitFromEclipseApplication {
 		SpringApplication.run(GitFromEclipseApplication.class, args);
  		System.out.println("App running..");
  		System.out.println("Dont show..");
+
 	}
 
 }
