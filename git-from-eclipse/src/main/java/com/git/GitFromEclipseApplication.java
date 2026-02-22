@@ -7,9 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitFromEclipseApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Before running..");
 		SpringApplication.run(GitFromEclipseApplication.class, args);
-		System.out.println("App running..");
-		System.out.println("App runniing..");
+ 		System.out.println("App running..");
+ 		System.out.println("Dont show..");
 	}
 
 }
