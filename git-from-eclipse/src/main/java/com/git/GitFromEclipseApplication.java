@@ -8,12 +8,12 @@ public class GitFromEclipseApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Before running..");
-		System.out.println("running..");
+		System.out.println("nagarjuna application..");
 		SpringApplication.run(GitFromEclipseApplication.class, args);
  		System.out.println("App running..");
  		System.out.println("Dont show..");
 
- 		System.out.println("hai Nagarjuna");
+ 		System.out.println("hai Nagarjuna How are you ?");
 	}
 
 }
